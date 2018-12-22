@@ -1,16 +1,6 @@
 charge();
 
 
-let reponse1 = "rien";
-let reponse2 = "rien";
-let reponse3 = "rien";
-let reponse4 = "rien";
-let reponse5 = "rien";
-let reponse6 = "rien";
-let reponse7 = "rien";
-let reponse8 = "rien";
-let reponse9 = "rien";
-let reponse10 = "rien";
 let note = 0;
 let tour = 0;
 let reponse_enter = document.getElementById('rep')
